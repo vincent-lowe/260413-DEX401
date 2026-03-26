@@ -25,6 +25,9 @@ Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Co
 Related Links
 -------------------------------------------------------------------------------------------------------------------
 
+Fielding's paper: https://roy.gbiv.com/pubs/dissertation/fielding_dissertation.pdf
+
+Two Bit History takedown: https://twobithistory.org/2020/06/28/rest.html
 
 
 
