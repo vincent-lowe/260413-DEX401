@@ -59,4 +59,9 @@ https://anypoint.mulesoft.com
 
 https://anypoint.mulesoft.com/exchange/?view=grid&type=app
 
+###  Classroom Playlist
+
+|Title|Artist|Comments|
+|The Streetbeater|Quincy Jones|from the TV show Sanford and Son|
+|Smooth Criminal|Luca Stricagnoli|Michael Jackson cover on three-neck guitar|
 
