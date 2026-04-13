@@ -9,16 +9,16 @@ vincent-lowe@salesforce.com
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:	https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:	<<Attendance Code>>
+Attendance Code:	N/A
 
 Salesforce Mimeo:	https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:	<<Mimeo Key>>
+eBook Redemption Key:	USV4X7WTWL70
 
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:		https://www.research.net/r/trailheadacademy
 
-Survey ID:		<<survey ID>>
+Survey ID:		   TASM-2105064
 
 -------------------------------------------------------------------------------------------------------------------
 Zoom Link: <<Zoom Link>>
