@@ -68,7 +68,8 @@ https://anypoint.mulesoft.com/exchange/?view=grid&type=app
 |Tupelo Honey|Elle Cordova and Toni Lundgren||
 |Midnight Train to Georgia|Gladys Knight and the Pips|be a Pip!|
 |Just Stopped In (to see what condition my condition was in|Willie Nelson|cover|
-
+|Hotel California|Moyun|Eagles cover on traditional Japanese instrument|
+|Sixteen Tons|Geoff Castelluci|Geoff provides ALL the voices on this track|
 
 
 
