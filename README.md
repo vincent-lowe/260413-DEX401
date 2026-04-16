@@ -78,6 +78,8 @@ https://anypoint.mulesoft.com/exchange/?view=grid&type=app
 |The Hitter|Mark Erelli|Mark wrote this for his son|
 |Good Day for a Good Day|Michael Franti and Spearhead||
 |This Old Town|Nanci Griffith|Other Voices, Other Rooms|
+|Navajo Rug|Jerry Jeff Walker||
+
 
 
 
