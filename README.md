@@ -76,6 +76,8 @@ https://anypoint.mulesoft.com/exchange/?view=grid&type=app
 |Bonanza TV Theme|CBS||
 |Have You Ever Seen The Rain|Willie Nelson feat. Paula Nelson|Creedence Clearwater cover|
 |The Hitter|Mark Erelli|Mark wrote this for his son|
+|Good Day for a Good Day|Michael Franti and Spearhead||
+
 
 
 
