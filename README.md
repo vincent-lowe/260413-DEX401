@@ -79,6 +79,9 @@ https://anypoint.mulesoft.com/exchange/?view=grid&type=app
 |Good Day for a Good Day|Michael Franti and Spearhead||
 |This Old Town|Nanci Griffith|Other Voices, Other Rooms|
 |Navajo Rug|Jerry Jeff Walker||
+|Feeling Good|Nina Simone||
+|Ain't Misbehavaing|Leon Redbone||
+
 
 
 
