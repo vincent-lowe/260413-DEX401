@@ -21,9 +21,7 @@ Survey Link:		https://www.research.net/r/trailheadacademy
 Survey ID:		   TASM-2105064
 
 -------------------------------------------------------------------------------------------------------------------
-Zoom Link: <<Zoom Link>>
-
-Meeting ID: <<Meeting ID>>
+Self paced course: https://trailhead.salesforce.com/users/strailhead/trailmixes/getting-started-with-anypoint-platform-dex-401 
 
 Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#DEX401
 
